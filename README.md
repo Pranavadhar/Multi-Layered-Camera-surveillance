@@ -4,4 +4,4 @@ using RFID and fingerprint scanning, and facial recognition as the third layer. 
 entry, displaying login times for each level fetched from Firebase, and the final layer includes manual
 verification by a supervisor.
 
-<h1>NOTE: THE LAYER OF CAMERA SURVILLANCE WHICH I HAVE WORKED WITH IS UPDATED HERE.
+<h1>NOTE: THE LAYER OF CAMERA SURVILLANCE WHICH I HAVE WORKED WITH IS UPLOADED HERE.
